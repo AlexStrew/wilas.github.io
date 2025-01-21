@@ -1,5 +1,23 @@
 Package: com.opa334.altlist
 Version: 1.0.10
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 340
+Depends: firmware (>=7.0)
+Filename: ./debs/com.opa334.trollstorehelper_2.1_iphoneos-arm.deb
+Size: 1919648
+MD5sum: ca213f963a5a097da923e339c1bdbdd8
+SHA1: e3ccfe4b9fd82b2e36c8fc60a50e5aebe04f17eb
+SHA256: 446cb7c61b2e46d92cce9c26b2bff509e7d95df200370fa51fd2a6d098602eec
+Section: System
+Description: A modern AppList alternative
+Tag: role::developer
+Author: opa334
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Name: trollstorehelper
+
+Package: com.opa334.altlist
+Version: 1.0.10
 Architecture: iphoneos-arm64
 Maintainer: opa334
 Installed-Size: 340
