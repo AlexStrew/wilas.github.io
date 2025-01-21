@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: opa334
 Installed-Size: 340
 Depends: firmware (>=7.0)
-Filename: ./debs/com.opa334.trollstorehelper_2.1_iphoneos-arm.deb
+Filename: ./debs/com.opa334.trollstorehelper_1.4_iphoneos-arm.deb
 Size: 1919648
 MD5sum: ca213f963a5a097da923e339c1bdbdd8
 SHA1: e3ccfe4b9fd82b2e36c8fc60a50e5aebe04f17eb
