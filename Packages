@@ -33,3 +33,21 @@ Description: Cleans up modified CC system files!
 Author: opa334
 Depiction: https://alexstrew.github.io/wilas.github.io/depic/CCCleaner/index.html
 Name: TrollZaebal
+
+Package: com.tigisoftware.filza
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: tigisoftware
+Installed-Size: 0
+Depends: firmware (>=11.0)
+Filename: ./debs/com.tigisoftware.filza_4.0.1-3_iphoneos-arm_Patch_by_FajeSu.deb
+Size: 1919648
+MD5sum: 0e70e79a8fc5c1663bbe600e56a78698
+SHA1: a091f6679d5d3ef72030a2b24a528f8d778b7d85
+SHA256: 86fc8e53854e4520492823c06d9c787b291606669957862d2b16f852fa8f65fd
+Section: System
+Homepage: https://alexstrew.github.io/wilas.github.io/
+Description: Cleans up modified CC system files!
+Author: yourmom
+Depiction: https://alexstrew.github.io/wilas.github.io/depic/CCCleaner/index.html
+Name: FilzaZaebal
