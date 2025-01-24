@@ -1,47 +1,28 @@
-Package: com.opa334.trollstorehelper
-Version: 1.0.10
+Package: com.ichitaso.powerselector11
+Version: 1.4.0
 Architecture: iphoneos-arm
-Maintainer: opa334
+Maintainer: ichitaso
 Installed-Size: 340
 Depends: firmware (>=7.0)
-Filename: ./debs/com.opa334.trollstorehelper_1.4_iphoneos-arm.deb
-Size: 1919648
-MD5sum: ca213f963a5a097da923e339c1bdbdd8
-SHA1: e3ccfe4b9fd82b2e36c8fc60a50e5aebe04f17eb
-SHA256: 446cb7c61b2e46d92cce9c26b2bff509e7d95df200370fa51fd2a6d098602eec
+Filename: ./debs/com.ichitaso.powerselector11_1.4.0_iphoneos-arm.deb
+Size: 209910
+MD5sum: d9d27173cc6130c5d230851d80ffd618
+SHA1: 56d334823c0dd7ef192a489ea8ec332041ce108a
+SHA256: c560fa196cd3fb244edb72f2a3943c7ead59979c300f9ecdceefc713439a8454
 Section: System
 Description: A modern AppList alternative
-Tag: role::developer
-Author: opa334
+Author: ichitaso
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
-Name: trollstorehelper
+Name: powerselector
 
-Package: com.opa334.trollstorehelper
-Version: 2.1
-Architecture: iphoneos-arm
-Maintainer: opa334
-Installed-Size: 0
-Depends: firmware (>=11.0)
-Filename: ./debs/com.opa334.trollstorehelper_2.1_iphoneos-arm.deb
-Size: 1919648
-MD5sum: ca213f963a5a097da923e339c1bdbdd8
-SHA1: e3ccfe4b9fd82b2e36c8fc60a50e5aebe04f17eb
-SHA256: 446cb7c61b2e46d92cce9c26b2bff509e7d95df200370fa51fd2a6d098602eec
-Section: System
-Homepage: https://alexstrew.github.io/wilas.github.io/
-Description: Cleans up modified CC system files!
-Author: opa334
-Depiction: https://alexstrew.github.io/wilas.github.io/depic/CCCleaner/index.html
-Name: TrollZaebal
-
-Package: com.tigisoftware.filza
-Version: 2.1
+Package: net.angelxwind.appsyncunified_100.0
+Version: 100.0
 Architecture: iphoneos-arm
 Maintainer: tigisoftware
 Installed-Size: 0
 Depends: firmware (>=11.0)
-Filename: ./debs/com.tigisoftware.filza_4.0.1-3_iphoneos-arm_Patch_by_FajeSu.deb
-Size: 1919648
+Filename: ./debs/net.angelxwind.appsyncunified_100.0.deb
+Size: 58314
 MD5sum: 0e70e79a8fc5c1663bbe600e56a78698
 SHA1: a091f6679d5d3ef72030a2b24a528f8d778b7d85
 SHA256: 86fc8e53854e4520492823c06d9c787b291606669957862d2b16f852fa8f65fd
@@ -50,4 +31,4 @@ Homepage: https://alexstrew.github.io/wilas.github.io/
 Description: Cleans up modified CC system files!
 Author: yourmom
 Depiction: https://alexstrew.github.io/wilas.github.io/depic/CCCleaner/index.html
-Name: FilzaZaebal
+Name: appsyncunified
