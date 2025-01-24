@@ -16,20 +16,20 @@ Author: ichitaso
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
 Name: powerselector
 
-Package: ai.akemi.appsyncunified
-Version: 116.0
+Package: net.angelxwind.appsyncunified
+Version: 102.0
 Architecture: iphoneos-arm
-Maintainer: akemi
+Maintainer: angelxwind
 Installed-Size: 0
 Depends: firmware (>= 11.0)
-Filename: ./debs/ai.akemi.appsyncunified_116.0_iphoneos-arm.akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
-Size: 51658
-MD5sum: 536009a11dad57e48a5563224eaffaff
-SHA1: e0fa412cb3c26718887edd834804c88909297079
-SHA256: 0036f28fcbdb165d4f58968a237ca9fe7b6ed33fea25b9a5eb1fc141f6bf5a09
+Filename: ./debs/net.angelxwind.appsyncunified_102.0.deb
+Size: 58304
+MD5sum: bfc0ae0a9d103360e8d798d5a04b9620
+SHA1: f95286f3c6dab9f39307ebdc296fcbb273b227fe
+SHA256: 5ef22d365bd66e51815f20a739f1acfc5fe1ad84b5b2a5a6dd0f2279f2ca9d56
 Section: System
 Homepage: https://alexstrew.github.io/wilas.github.io/
 Description: Cleans up modified CC system files!
 Author: yourmomakemi
 Depiction: https://alexstrew.github.io/wilas.github.io/depic/CCCleaner/index.html
-Name: appsyncunified116
+Name: appsyncunified102
