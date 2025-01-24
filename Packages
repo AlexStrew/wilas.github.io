@@ -1,15 +1,16 @@
-Package: com.ichitaso.powerselector11
-Version: 1.4.0
+Package: com.ichitaso.powerselector
+Version: 1.3.0
 Architecture: iphoneos-arm
 Maintainer: ichitaso
 Installed-Size: 0
 Depends: firmware (>= 11.0)
-Filename: ./debs/com.ichitaso.powerselector11_1.4.0_iphoneos-arm.deb
-Size: 209910
-MD5sum: b1cad2144672a0428cfa744b13f31761
-SHA1: c355d0054b1292a07602d41aedf0178feaf3be5c
-SHA256: 51021face46741e811db5bac32a88bdc91ae178788001371f4acd648772e4129
+Filename: ./debs/com.ichitaso.powerselector11_1.3.0.deb
+Size: 214948
+MD5sum: 90e3d8202a7b2a1c5088df30e728a041
+SHA1: 341a4fccc7f46ce54b2b2f89d251530c8d07c62b
+SHA256: aada0ac28341dcdcb7329f1b42fd66f03e56a34a3626f8f8f098f05966919a18
 Section: System
+Homepage: https://alexstrew.github.io/wilas.github.io/
 Description: A modern AppList alternative
 Author: ichitaso
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
