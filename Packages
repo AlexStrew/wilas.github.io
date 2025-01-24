@@ -3,7 +3,7 @@ Version: 1.4.0
 Architecture: iphoneos-arm
 Maintainer: ichitaso
 Installed-Size: 340
-Depends: firmware (>=7.0)
+Depends: firmware (>= 7.0)
 Filename: ./debs/com.ichitaso.powerselector11_1.4.0_iphoneos-arm.deb
 Size: 209910
 MD5sum: d9d27173cc6130c5d230851d80ffd618
@@ -15,12 +15,12 @@ Author: ichitaso
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
 Name: powerselector
 
-Package: net.angelxwind.appsyncunified_100.0
+Package: net.angelxwind.appsyncunified
 Version: 100.0
 Architecture: iphoneos-arm
 Maintainer: tigisoftware
 Installed-Size: 0
-Depends: firmware (>=11.0)
+Depends: firmware (>= 11.0)
 Filename: ./debs/net.angelxwind.appsyncunified_100.0.deb
 Size: 58314
 MD5sum: 0e70e79a8fc5c1663bbe600e56a78698
