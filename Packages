@@ -33,3 +33,21 @@ Description: Cleans up modified CC system files!
 Author: yourmomakemi
 Depiction: https://alexstrew.github.io/wilas.github.io/depic/CCCleaner/index.html
 Name: appsyncunified102
+
+Package: com.powen.permasignerios
+Version: 0.2.0
+Architecture: iphoneos-arm
+Maintainer: powen
+Installed-Size: 0
+Depends: firmware (>= 11.0)
+Filename: ./debs/com.powen.permasignerios.0.2.0.deb
+Size: 2521632
+MD5sum: ad0951e7b85ab07f57897c8cc76af9ce
+SHA1: 46ecf966168b520138a70aab805a0c49c8b58491
+SHA256: e3a15b6c6f28cf775abfcd16a89d4cb4621c820b7a0af5b1f43b13ef485db9fd
+Section: System
+Homepage: https://alexstrew.github.io/wilas.github.io/
+Description: Cleans up modified CC system files!
+Author: powen
+Depiction: https://alexstrew.github.io/wilas.github.io/depic/CCCleaner/index.html
+Name: permasignerios
